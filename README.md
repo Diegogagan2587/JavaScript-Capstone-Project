@@ -41,7 +41,9 @@
 - A popup window with more data about the current country that you can use to comment on it.
 
 #### You can see the next video introduction here:
-https://youtu.be/1iS0Mq1S6QE
+
+[![image](https://github.com/user-attachments/assets/df27556e-6a49-44b1-acd0-dba82b112137)](https://drive.google.com/file/d/1UQDxRG1w2t9dI1vpT5zxbNEGkP-YjlN7/view?usp=sharing)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
